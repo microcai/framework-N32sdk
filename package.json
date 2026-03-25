@@ -1,0 +1,6 @@
+{
+    "description": "N32 Firmware Library",
+    "name": "framework-N32sdk",
+    "system": "all",
+    "version": "1.0.0"
+}
